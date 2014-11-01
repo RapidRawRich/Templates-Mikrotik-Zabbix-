@@ -1,4 +1,4 @@
-Templates-Mikrotik-Zabbix-
+Templates Mikrotik Zabbix
 ==========================
 
-Templates Zabbix para equipamentos Mikrotik Routerboard.
+Templates `Zabbix` para equipamentos `Mikrotik Routerboard`.
